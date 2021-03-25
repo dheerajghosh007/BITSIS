@@ -1,0 +1,24 @@
+.two:hover ~ hr {
+    margin-left: 20%;
+  }
+  
+  .three:hover ~ hr {
+    margin-left: 40%;
+  }
+  
+  .four:hover ~ hr {
+    margin-left: 60%;
+  }
+  .five:hover ~ hr {
+    margin-left: 80%;
+  }
+  
+  hr {
+    height: .25rem;
+    width: 25%;
+    margin: 0;
+    background: tomato;
+    border: none;
+    transition: .3s ease-in-out;
+  }
+  
