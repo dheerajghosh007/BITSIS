@@ -4,7 +4,7 @@ A Project for BITSHINE 2020
 ## Abstract
  
 BITSIS(Student Interaction System) is a dynamic and responsive website, made to make the interaction easy among students and faculties for sharing knowledge. The main features of this website are, 1.Students can access to study materials(videos, pdfs, ebooks)  as per college syllabus as well as non-college technical skills like ML/AI, web dev etc, 2. Students can also contribute with the resources by visiting Upload Section in the website, 3. Students can interact with each other in real time for knowledge sharing(clearing doubt) by visiting the Chat Section on the website. 4. Authentication using Email Signup or Google or Github so that no one authorizes the contents without logging in the page.5.Uploading as well as sharing the notes/pdf/videos on the website go through proper checking of admins and credits given to the proper contributors. 6. The notification section which updates about the latest news and technologies.
-Keywords: - bitsis, student, interaction, faculties.
+Keywords: - bitsis, student, study materials, interaction, faculties.
 Introduction:-
  
 BITSIS (BIT Student interaction System) is a full stack and dynamic website made for day-to-day interaction and communication of students with students as well as faculties with each other.
